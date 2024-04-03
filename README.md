@@ -42,10 +42,7 @@
       </p>
       <h2>Education🎓</h2>
       <p>
-        I am pursuing my Bachelors degree in Computer Science Engineering from
-        Muffakham Jah College of Engineering and Technology, Hyderabad, India.
-        This program is equipped me with deep understanding of fundamental
-        concepts and algorithms.
+        I am pursuing my Bachelors degree in Computer Science Engineering. I mainly work with Flutter, Dart and Firebase.
       </p>
       <h2>Contact Information📞</h2>
       <p>
