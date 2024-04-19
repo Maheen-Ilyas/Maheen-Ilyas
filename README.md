@@ -3,12 +3,9 @@
     <div>
       <h1>Maheen Ilyas👩🏽‍💻</h1>
       <p>
-        I'm an ardent computer science student with a focus on Flutter
-        development and a deep interest in Cybersecurity. I love exploring the
-        possibilities that Data Science and Machine Learning offer, and I'm
-        excited to dive into this fascinating field. 🌱 As a goal-oriented and 
-	motivated individual, I'm constantly seeking new challenges and 
-	opportunities to expand my knowledge and skill set.
+        I'm a Mobile Application developer, proficient in Flutter, Dart and Firebase. 
+	I work with Python and its libraries for Data Science and Machine Learning. In the future,
+	I plan on working with Kotlin to get started with Native Android Application developemnt.
       </p>
 	<div id="badges">
         <a href="https://www.linkedin.com/in/maheen-ilyas">
