@@ -1,12 +1,4 @@
 <div id="header" align="center">
-      <div id="badges">
-        <a href="https://www.linkedin.com/in/maheen-ilyas-995582227">
-          <img
-            src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="LinkedIn Badge"
-          />
-        </a>
-      </div>
     </div>
     <div>
       <h1>Maheen Ilyas👩🏽‍💻</h1>
@@ -18,6 +10,14 @@
 	motivated individual, I'm constantly seeking new challenges and 
 	opportunities to expand my knowledge and skill set.
       </p>
+	<div id="badges">
+        <a href="https://www.linkedin.com/in/maheen-ilyas-995582227">
+          <img
+            src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="LinkedIn Badge"
+          />
+        </a>
+      </div>
 	<h2>Github Stats📈</h2>
     </div>
 
