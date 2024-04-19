@@ -1,20 +1,5 @@
 <div id="header" align="center">
-      <img
-        src="[https://media.giphy.com/media/zSz2KsgySmfjbb8NJS/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhvb3Bzb21zdWd1Zzl3cWVxM3p4cjk4MzRueGhsa3h5Y2h5cGxyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)"
-        width="480"
-        height="297"
-        frameBorder="0"
-        class="giphy-embed"
-        allowFullScreen
-      />
-      <p>
-        <sup
-          ><a
-            href="https://giphy.com/stickers/welcome-lettering-jhorimotion-zSz2KsgySmfjbb8NJS"
-            >via GIPHY</a
-          ></sup
-        >
-      </p>
+<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
       <div id="badges">
         <a href="https://www.linkedin.com/in/maheen-ilyas-995582227">
           <img
