@@ -40,29 +40,6 @@
 	motivated individual, I'm constantly seeking new challenges and 
 	opportunities to expand my knowledge and skill set.
       </p>
-      <h2>Education🎓</h2>
-      <p>
-        I am pursuing my Bachelors degree in Computer Science Engineering. I mainly work with Flutter, Dart and Firebase.
-      </p>
-      <h2>Contact Information📞</h2>
-      <p>
-        📧 Email: maheenilyas4@icloud.com 
-	<br>
-        <br>
-        Feel free to reach out to me via email or connect with me on LinkedIn.
-        I'm always open to discussions, collaborations, and new opportunities in
-        the fields of Flutter development, Cybersecurity, Data Science, Machine
-        Learning, and Web Development. Let's connect and explore exciting
-        possibilities together!
-      </p>
-      <h2>Hobbies🐈</h2>
-      <p>
-        When I'm not immersed in code or brainstorming for my next idea, you can
-        always find me indulging in a couple of my favorite activities that
-        bring me joy and help me relax. I often find myself nestled in a cozy
-        corner, with a book in my lap and a steaming cup of coffee by my side.
-        Alternatively, I enjoy the soothing company of my feline friends.
-      </p>
 	<h2>Github Stats📈</h2>
     </div>
 
