@@ -19,8 +19,9 @@
       </p>
 	<h2>Github Stats📈</h2>
     </div>
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maheen-Ilyas&show_icons=true&theme=dark&rank_icon=github)
-  	<br>
-  	<br>
-	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maheen-Ilyas&layout=compact&theme=dark)
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maheen-Ilyas&show_icons=true&theme=dark&rank_icon=github)
+<br>
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maheen-Ilyas&layout=compact&theme=dark)
  
