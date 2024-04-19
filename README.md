@@ -11,9 +11,9 @@
 	opportunities to expand my knowledge and skill set.
       </p>
 	<div id="badges">
-        <a href="https://www.linkedin.com/in/maheen-ilyas-995582227">
+        <a href="https://www.linkedin.com/in/maheen-ilyas">
           <img
-            src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=black"
             alt="LinkedIn Badge"
           />
         </a>
