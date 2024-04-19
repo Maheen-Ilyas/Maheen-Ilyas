@@ -1,5 +1,4 @@
 <div id="header" align="center">
-<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
       <div id="badges">
         <a href="https://www.linkedin.com/in/maheen-ilyas-995582227">
           <img
@@ -32,5 +31,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maheen-Ilyas&show_icons=true&theme=dracula&bg_color=00000000)
   <br>
   <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maheen-Ilyas&hide=cmake&langs_count=7&size_weight=0.5&count_weight=0.5&theme=dracula&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maheen-Ilyas&layout=compact)
  
