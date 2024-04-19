@@ -1,13 +1,5 @@
 <div id="header" align="center">
 	<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhseTMyZW10N285MHBjZXN0aXkwb2F5Nm53YmY4a3p0cTdsbHpqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"/>
-    </div>
-    <div>
-      <h1>Maheen Ilyas👩🏽‍💻</h1>
-      <p>
-        I'm a Mobile Application developer, proficient in Flutter, Dart and Firebase. 
-	I work with Python and its libraries for Data Science and Machine Learning. In the future,
-	I plan on working with Kotlin to get started with Native Android Application developemnt.
-      </p>
 	<div id="badges">
         <a href="https://www.linkedin.com/in/maheen-ilyas">
           <img
@@ -16,6 +8,14 @@
           />
         </a>
       </div>
+    </div>
+    <div>
+      <h1>Maheen Ilyas👩🏽‍💻</h1>
+      <p>
+        I'm a Mobile Application developer, proficient in Flutter, Dart and Firebase. 
+	I work with Python and its libraries for Data Science and Machine Learning. In the future,
+	I plan on working with Kotlin to get started with Native Android Application developemnt.
+      </p>
 	<h2>Github Stats📈</h2>
     </div>
 
