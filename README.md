@@ -28,8 +28,8 @@
     </div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maheen-Ilyas&show_icons=true&theme=dracula&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maheen-Ilyas&show_icons=true&theme=dark&rank_icon=github)
   <br>
   <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maheen-Ilyas&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maheen-Ilyas&layout=compact&theme=dark)
  
