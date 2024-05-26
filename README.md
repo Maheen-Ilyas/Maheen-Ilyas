@@ -23,5 +23,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maheen-Ilyas&show_icons=true&theme=dark&rank_icon=github)
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maheen-Ilyas&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maheen-Ilyas&theme=dark)
  
