@@ -88,5 +88,5 @@
 
 ### 💻 Featured Projects
 
-- **[HealTech](https://github.com/mahilyas05/healtech)** - A Flutter app for medical management, featuring Firebase integration for authentication, storage and database management.
+- **[HealTech](https://github.com/Medlia/healtech)** - A Flutter app for medical management, featuring Firebase integration for authentication, storage and database management.
 - **[Distracted Driver Detection](https://github.com/mahilyas05/distracted-driver-detection)** - A CNN-based system to enhance road safety with a 98.86% test accuracy.
