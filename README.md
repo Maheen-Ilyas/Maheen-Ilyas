@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maheen Ilyas</h1>
-<h3 align="center">A passionate Computer Science student and Software Developer!</h3>
+<h3 align="center">A passionate Computer Science student and Software Engineer!</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Maheen-Ilyas&style=for-the-badge" alt="Profile views" height="30"/>
