@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi%20there,%20I'm%20Maheen%20Ilyas!&animation=fadeIn&type=waving&color=0:FFC9E4,100:D5D3FA&fontColor=FFFFFF&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=%20Hi%20there,%20I'm%20Maheen!%20&animation=fadeIn&type=waving&color=0:FFC9E4,100:D5D3FA&fontColor=FFFFFF&height=100"/>
 </p>
 
 <h3 align="center">Aspiring Machine Learning Engineer | Mobile Application Developer | CS Undergrad</h3>
