@@ -88,11 +88,12 @@ portfolio: https://maheen-ilyas.vercel.app
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maheen-Ilyas&show_icons=true&theme=radical"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maheen-Ilyas&show_icons=true&theme=transparent&bg_color=00000000&title_color=FFC9E4&icon_color=FFD3E6&text_color=D5D3FA&border_radius=10" alt="Maheen Ilyas' GitHub Stats"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheen-Ilyas&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheen-Ilyas&layout=compact&theme=transparent&bg_color=00000000&title_color=FFC9E4&icon_color=FFD3E6&text_color=D5D3FA&border_radius=10" alt="Top Languages"/>
 </p>
+
 
 ---
 
@@ -100,10 +101,8 @@ portfolio: https://maheen-ilyas.vercel.app
 
 * **[HealTech](https://github.com/Medlia/healtech)**
   *A cross-platform healthcare app for managing patient records, appointments, and prescriptions using Flutter & Firebase.*
-
 * **[Distracted Driver Detection](https://github.com/Maheen-Ilyas/distracted-driver-detection)**
   *CNN-powered classification system with 98.86% test accuracy to identify distracted driving behaviors.*
-
 * **NomosAI (In Progress)**
   *A legal AI assistant leveraging fine-tuned LLaMA models and RAG pipelines for summarization & question-answering.*
 
