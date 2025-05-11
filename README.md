@@ -76,6 +76,8 @@ portfolio: https://maheen-ilyas.vercel.app
 - Retrieval-Augmented Generation (RAG)
 - Natural Language Processing (NLP)
 
+#### Soft Skills
+
 <p align="center"> 
   <img src="https://img.shields.io/badge/Interpersonal_Communication-FFC9E4?style=for-the-badge&logo=communication&logoColor=white" alt="Interpersonal Communication"/> 
   <img src="https://img.shields.io/badge/Public_Speaking-FFD3E6?style=for-the-badge&logo=megaphone&logoColor=white" alt="Public Speaking"/> <img src="https://img.shields.io/badge/Leadership_Skills-FFCCE5?style=for-the-badge&logo=leadership&logoColor=white" alt="Leadership Skills"/> 
