@@ -1,96 +1,145 @@
-<h1 align="center">Hi 👋, I'm Maheen Ilyas</h1>
-<h3 align="center">A passionate Computer Science student and Software Engineer!</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hi%20there,%20I'm%20Maheen%20Ilyas!&animation=fadeIn&type=waving&color=0:FFC9E4,100:D5D3FA&fontColor=FFFFFF&height=100"/>
+</p>
+
+<h3 align="center">Aspiring Machine Learning Engineer | Mobile Application Developer | CS Undergrad</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maheen-Ilyas&style=for-the-badge" alt="Profile views" height="30"/>
+  <a href="https://maheen-ilyas.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/maheen-ilyas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mahilyas05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-### 👩‍💻 About Me
+### 🧠 About Me
 
-- 🔭 I’m currently working on **HealTech**, a medical management app using Flutter, Dart and Firebase.
-- 🌱 I’m currently learning **Machine Learning** and enhancing my **DSA skills** in Java.
-- 👯 I’m looking to collaborate on **Open-Source Projects** related to Mobile Development and AI.
-- 📫 How to reach me: **mahilyas05@gmail.com**
+```yaml
+name: Maheen Ilyas
+status: Computer Science Undergraduate
+focus: Machine Learning, Mobile & Full-Stack Development
+interests:
+  - AI and ML
+  - NLP
+  - Mobile Application Development
+current_projects:
+  - NomosAI: Legal AI assistant using LLMs and RAG pipelines
+  - HealTech: Flutter-based healthcare management app
+contact: mahilyas05@gmail.com
+portfolio: https://maheen-ilyas.vercel.app
+```
 
 ---
 
-### 🛠️ My Skill Set
+### 🛠️ Technical Skills
 
-### 👨‍💻 Programming Languages
+#### Languages
+
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="30"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="30"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python" height="30"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="30"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" height="30"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="30"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### 📚 Frameworks & Libraries
+#### Frameworks & Libraries
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" height="30"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="30"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="30"/>
-<!--   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" height="30"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="30"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-0070F3?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" height="30"/> -->
-<!--   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" height="30"/> -->
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="30"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="30"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" height="30"/>
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black" alt="Scikit-Learn" height="30"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" height="30"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" height="30"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-9AABDD?style=for-the-badge&logo=seaborn&logoColor=black"/>
 </p>
 
-### 💾 Database Query Language
+#### Developer Platforms & Tools
+
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL" height="30"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
-### 🛠️ Platforms & Tools
+#### Databases
+
 <p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" height="30"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" height="30"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" height="30"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=chromadb&logoColor=white"/>
 </p>
 
-#### 🤝 Soft Skills
+#### AI/ML Technologies
+
+- Deep Learning
+- Retrieval-Augmented Generation (RAG)
+- Natural Language Processing (NLP)
+
+#### Soft Skills
+
 - Interpersonal Communication
 - Public Speaking
 - Leadership Skills
+- Problem-Solving
+- Team Management
+- Conflict Management
 
 ---
 
-### 📊 GitHub Stats
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maheen-Ilyas&show_icons=true&theme=radical)
-<br>
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maheen-Ilyas&layout=compact&theme=radical)
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maheen-Ilyas&show_icons=true&theme=radical"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheen-Ilyas&layout=compact&theme=radical"/>
+</p>
 
 ---
 
-### 🤝 Socials
+### 🌟 Featured Projects
 
-<p>
-  <a href="https://github.com/Maheen-Ilyas" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/>
+* **[HealTech](https://github.com/Medlia/healtech)**
+  *A cross-platform healthcare app for managing patient records, appointments, and prescriptions using Flutter & Firebase.*
+
+* **[Distracted Driver Detection](https://github.com/Maheen-Ilyas/distracted-driver-detection)**
+  *CNN-powered classification system with 98.86% test accuracy to identify distracted driving behaviors.*
+
+* **NomosAI (In Progress)**
+  *A legal AI assistant leveraging fine-tuned LLaMA models and RAG pipelines for summarization & question-answering.*
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://maheen-ilyas.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/maheen-ilyas" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+  <a href="https://www.linkedin.com/in/maheen-ilyas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mahilyas05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
---- 
-
-### 💻 Featured Projects
-
-- **[HealTech](https://github.com/Medlia/healtech)** - A Flutter app for medical management, featuring Firebase integration for authentication, storage and database management.
-- **[Distracted Driver Detection](https://github.com/Maheen-Ilyas/distracted-driver-detection)** - A CNN-based system to enhance road safety with a 98.86% test accuracy.
+---
