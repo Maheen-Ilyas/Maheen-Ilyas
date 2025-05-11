@@ -4,16 +4,13 @@
 
 <h3 align="center">Aspiring Machine Learning Engineer | Mobile Application Developer | CS Undergrad</h3>
 
-<p align="center">
-  <a href="https://maheen-ilyas.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/maheen-ilyas" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mahilyas05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<p align="center"> 
+  <a href="https://maheen-ilyas.vercel.app" target="_blank"> 
+    <img src="https://img.shields.io/badge/Portfolio-FFC9E4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/> </a> 
+  <a href="https://www.linkedin.com/in/maheen-ilyas" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-FFD3E6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> 
+  <a href="mailto:mahilyas05@gmail.com"> 
+    <img src="https://img.shields.io/badge/Email-FFCCE5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> 
 </p>
 
 ---
@@ -48,11 +45,6 @@ portfolio: https://maheen-ilyas.vercel.app
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-#### Frameworks & Libraries
-
-<p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -66,22 +58,12 @@ portfolio: https://maheen-ilyas.vercel.app
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-9AABDD?style=for-the-badge&logo=seaborn&logoColor=black"/>
-</p>
-
-#### Developer Platforms & Tools
-
-<p align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-</p>
-
-#### Databases
-
-<p align="left">
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
@@ -94,14 +76,13 @@ portfolio: https://maheen-ilyas.vercel.app
 - Retrieval-Augmented Generation (RAG)
 - Natural Language Processing (NLP)
 
-#### Soft Skills
-
-- Interpersonal Communication
-- Public Speaking
-- Leadership Skills
-- Problem-Solving
-- Team Management
-- Conflict Management
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Interpersonal_Communication-FFC9E4?style=for-the-badge&logo=communication&logoColor=white" alt="Interpersonal Communication"/> 
+  <img src="https://img.shields.io/badge/Public_Speaking-FFD3E6?style=for-the-badge&logo=megaphone&logoColor=white" alt="Public Speaking"/> <img src="https://img.shields.io/badge/Leadership_Skills-FFCCE5?style=for-the-badge&logo=leadership&logoColor=white" alt="Leadership Skills"/> 
+  <img src="https://img.shields.io/badge/Problem_Solving-FFB3D9?style=for-the-badge&logo=brain&logoColor=white" alt="Problem Solving"/> 
+  <img src="https://img.shields.io/badge/Team_Management-FF99CC?style=for-the-badge&logo=users&logoColor=white" alt="Team Management"/> 
+  <img src="https://img.shields.io/badge/Conflict_Management-FF80B3?style=for-the-badge&logo=handshake&logoColor=white" alt="Conflict Management"/> 
+</p>
 
 ---
 
@@ -130,16 +111,13 @@ portfolio: https://maheen-ilyas.vercel.app
 
 ### 📫 Let's Connect
 
-<p align="center">
-  <a href="https://maheen-ilyas.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/maheen-ilyas" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mahilyas05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<p align="center"> 
+  <a href="https://maheen-ilyas.vercel.app" target="_blank"> 
+    <img src="https://img.shields.io/badge/Portfolio-FFC9E4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/> </a> 
+  <a href="https://www.linkedin.com/in/maheen-ilyas" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-FFD3E6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> 
+  <a href="mailto:mahilyas05@gmail.com"> 
+    <img src="https://img.shields.io/badge/Email-FFCCE5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> 
 </p>
 
 ---
